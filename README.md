@@ -15,23 +15,37 @@ and
 >Note:For a detailed environment configuration tutorial you can refer to our CSDN [blog](https://blog.csdn.net/qq_41973051/article/details/128844400?spm=1001.2014.3001.5501)!
 
 ### Datasets
-<dataset>
-|-- <mfnet>
-    |-- <RGB>
-        |-- <name1>.<ImageFormat>
-        |-- <name2>.<ImageFormat>
-        ...
-    |-- <TH>
-        |-- <name1>.<ModalXFormat>
-        |-- <name2>.<ModalXFormat>
-        ...
-    |-- <Labels>
-        |-- <name1>.<LabelFormat>
-        |-- <name2>.<LabelFormat>
-        ...
-    |-- train.txt
-    |-- test.txt
-|-- <PST900>
+
+<details>
+  <summary>dataset</summary>
+  <ul>
+    <li>mfnet/
+        <ul>
+        <li>RGB/
+      <ul>
+        <li>name1.png</li>
+        <li>name2.png</li>
+      </ul>
+    </li>
+    <li>TH/
+      <ul>
+        <li>……</li>
+      </ul>
+    </li>
+    <li>Labels/
+      <ul>
+        <li>……</li>
+      </ul>
+    </li>
+  </ul>
+    </li>
+    <li>PST900/
+      <ul>
+        <li>……</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
 
 ### Pretrain weights:
