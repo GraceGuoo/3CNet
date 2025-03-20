@@ -12,7 +12,7 @@ Thank you for your interest.
 and
     pip install -r requirements.txt
 
->Note:For a detailed environment configuration tutorial you can refer to our CSDN [blog](https://blog.csdn.net/qq_41973051/article/details/128844400?spm=1001.2014.3001.5501)!
+>Note:For a detailed environment configuration tutorial you can refer to our CSDN [blog](https://blog.csdn.net/qq_41973051/article/details/128844400?spm=1001.2014.3001.5501).
 
 ### Datasets
 
@@ -64,6 +64,6 @@ The parameters of the dataset and the network can be modified through this confi
 
 The trained model can be downloaded [here](https://pan.baidu.com/s/1ykLytOpqHO8hkuewflBjXw?pwd=3cnt).
 
-The visualisation of the model predictions can be downloaded [here](https://pan.baidu.com/s/11sMy3p5f0M9c41zPXaif1Q?pwd=3cnt)
+The visualisation of the model predictions can be downloaded [here](https://pan.baidu.com/s/11sMy3p5f0M9c41zPXaif1Q?pwd=3cnt).
 
 All code will be made public after the paper is published.
