@@ -1,7 +1,7 @@
 # 3CNet
 This project provides the code and results for '3CNet: Cross-modal cooperative correction network for RGB-T semantic segmentation'. 
 
-Thank you for your interest.
+Thank you for your interest. The complete training scripts and details will be made publicly available upon publication
 
 ## Usage
 ### Requirements
